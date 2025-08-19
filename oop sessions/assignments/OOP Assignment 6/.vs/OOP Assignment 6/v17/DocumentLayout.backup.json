@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\oop sessions\\assignments\\OOP Assignment 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD3B19-B4C2-4297-909B-CFD4DF18C8AA}|OOP Assignment 6.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\oop sessions\\assignments\\oop assignment 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD3B19-B4C2-4297-909B-CFD4DF18C8AA}|OOP Assignment 6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD3B19-B4C2-4297-909B-CFD4DF18C8AA}|OOP Assignment 6.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\oop sessions\\assignments\\oop assignment 6\\discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD3B19-B4C2-4297-909B-CFD4DF18C8AA}|OOP Assignment 6.csproj|solutionrelative:discount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD3B19-B4C2-4297-909B-CFD4DF18C8AA}|OOP Assignment 6.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\oop sessions\\assignments\\oop assignment 6\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD3B19-B4C2-4297-909B-CFD4DF18C8AA}|OOP Assignment 6.csproj|solutionrelative:maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAAD3B19-B4C2-4297-909B-CFD4DF18C8AA}|OOP Assignment 6.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\oop sessions\\assignments\\oop assignment 6\\3dpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAAD3B19-B4C2-4297-909B-CFD4DF18C8AA}|OOP Assignment 6.csproj|solutionrelative:3dpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Discount.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\oop sessions\\assignments\\OOP Assignment 6\\Discount.cs",
+              "RelativeDocumentMoniker": "Discount.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\oop sessions\\assignments\\OOP Assignment 6\\Discount.cs",
+              "RelativeToolTip": "Discount.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T21:39:03.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Maths.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\oop sessions\\assignments\\OOP Assignment 6\\Maths.cs",
+              "RelativeDocumentMoniker": "Maths.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\oop sessions\\assignments\\OOP Assignment 6\\Maths.cs",
+              "RelativeToolTip": "Maths.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T21:01:06.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\oop sessions\\assignments\\OOP Assignment 6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\oop sessions\\assignments\\OOP Assignment 6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwE4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:01:06.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3DPoint.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\oop sessions\\assignments\\OOP Assignment 6\\3DPoint.cs",
+              "RelativeDocumentMoniker": "3DPoint.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\oop sessions\\assignments\\OOP Assignment 6\\3DPoint.cs",
+              "RelativeToolTip": "3DPoint.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAC0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T15:18:42.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
