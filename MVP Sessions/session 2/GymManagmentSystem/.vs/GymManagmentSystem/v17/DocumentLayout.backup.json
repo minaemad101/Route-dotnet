@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvp sessions\\session 2\\gymmanagmentsystem\\gymmanagementdal\\repositories\\classes\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\repositories\\classes\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvp sessions\\session 2\\gymmanagmentsystem\\gymmanagementdal\\repositories\\classes\\planrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\repositories\\classes\\planrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvp sessions\\session 2\\gymmanagmentsystem\\gymmanagementdal\\repositories\\classes\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\repositories\\classes\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvp sessions\\session 2\\gymmanagmentsystem\\gymmanagementdal\\repositories\\classes\\trainerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\repositories\\classes\\trainerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvp sessions\\session 2\\gymmanagmentsystem\\gymmanagementdal\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvp sessions\\session 2\\gymmanagmentsystem\\gymmanagementdal\\repositories\\interfaces\\iplanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\repositories\\interfaces\\iplanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvp sessions\\session 2\\gymmanagmentsystem\\gymmanagementdal\\repositories\\interfaces\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\repositories\\interfaces\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvp sessions\\session 2\\gymmanagmentsystem\\gymmanagementdal\\repositories\\interfaces\\itrainerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\repositories\\interfaces\\itrainerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED9E71A-B92A-4F15-B54C-35EDAF1AC362}|GymManagmentPL\\GymManagmentPL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvp sessions\\session 2\\gymmanagmentsystem\\gymmanagmentpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED9E71A-B92A-4F15-B54C-35EDAF1AC362}|GymManagmentPL\\GymManagmentPL.csproj|solutionrelative:gymmanagmentpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED9E71A-B92A-4F15-B54C-35EDAF1AC362}|GymManagmentPL\\GymManagmentPL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvp sessions\\session 2\\gymmanagmentsystem\\gymmanagmentpl\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EED9E71A-B92A-4F15-B54C-35EDAF1AC362}|GymManagmentPL\\GymManagmentPL.csproj|solutionrelative:gymmanagmentpl\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvp sessions\\session 2\\gymmanagmentsystem\\gymmanagementdal\\data\\contexts\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\data\\contexts\\gymdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionRepository.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Repositories\\Classes\\SessionRepository.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Repositories\\Classes\\SessionRepository.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Repositories\\Classes\\SessionRepository.cs",
+              "RelativeToolTip": "GymManagementDAL\\Repositories\\Classes\\SessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:38:24.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISessionRepository.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Repositories\\Interfaces\\ISessionRepository.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Repositories\\Interfaces\\ISessionRepository.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Repositories\\Interfaces\\ISessionRepository.cs",
+              "RelativeToolTip": "GymManagementDAL\\Repositories\\Interfaces\\ISessionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:38:10.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlanRepository.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Repositories\\Classes\\PlanRepository.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Repositories\\Classes\\PlanRepository.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Repositories\\Classes\\PlanRepository.cs",
+              "RelativeToolTip": "GymManagementDAL\\Repositories\\Classes\\PlanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:37:52.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Repositories\\Classes\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Repositories\\Classes\\CategoryRepository.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Repositories\\Classes\\CategoryRepository.cs",
+              "RelativeToolTip": "GymManagementDAL\\Repositories\\Classes\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:37:40.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPlanRepository.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Repositories\\Interfaces\\IPlanRepository.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Repositories\\Interfaces\\IPlanRepository.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Repositories\\Interfaces\\IPlanRepository.cs",
+              "RelativeToolTip": "GymManagementDAL\\Repositories\\Interfaces\\IPlanRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:37:27.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "GymManagementDAL\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:37:02.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrainerRepository.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Repositories\\Classes\\TrainerRepository.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Repositories\\Classes\\TrainerRepository.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Repositories\\Classes\\TrainerRepository.cs",
+              "RelativeToolTip": "GymManagementDAL\\Repositories\\Classes\\TrainerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T14:31:40.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITrainerRepository.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Repositories\\Interfaces\\ITrainerRepository.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Repositories\\Interfaces\\ITrainerRepository.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Repositories\\Interfaces\\ITrainerRepository.cs",
+              "RelativeToolTip": "GymManagementDAL\\Repositories\\Interfaces\\ITrainerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:50:31.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagmentPL\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GymManagmentPL\\appsettings.Development.json",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagmentPL\\appsettings.Development.json",
+              "RelativeToolTip": "GymManagmentPL\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T13:45:11.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GymDbContext.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Data\\Contexts\\GymDbContext.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Data\\Contexts\\GymDbContext.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagementDAL\\Data\\Contexts\\GymDbContext.cs",
+              "RelativeToolTip": "GymManagementDAL\\Data\\Contexts\\GymDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:24:16.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagmentPL\\Program.cs",
+              "RelativeDocumentMoniker": "GymManagmentPL\\Program.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVP Sessions\\session 2\\GymManagmentSystem\\GymManagmentPL\\Program.cs",
+              "RelativeToolTip": "GymManagmentPL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T13:29:01.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
