@@ -1,4 +1,5 @@
 ﻿using GymManagementDAL.Entities;
+using Microsoft.EntityFrameworkCore.Metadata.Conventions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,8 +8,9 @@ using System.Threading.Tasks;
 
 namespace GymManagementDAL.Repositories.Interfaces
 {
-    public interface IMemberRepository : IGenericRepository<Member>
+    public interface IUniteOfWork
     {
-        void Delete(int id);
+        IGenericRepository<TEntity> GetRepository<TEntity>() where TEntity : BaseEntity,new();
+        int SaveChanges();
     }
 }

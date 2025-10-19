@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvc sessions\\session 3\\gymmanagmentsystem\\gymmanagementbll\\services\\classes\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\classes\\trainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvc sessions\\session 3\\gymmanagmentsystem\\gymmanagementbll\\viewmodels\\memberviewmodel\\memberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\viewmodels\\memberviewmodel\\memberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvc sessions\\session 3\\gymmanagmentsystem\\gymmanagementdal\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\entities\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvc sessions\\session 3\\gymmanagmentsystem\\gymmanagementdal\\entities\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61220F3A-08AD-4F5D-9C4D-2DFFAC05BC8D}|GymManagementDAL\\GymManagementDAL.csproj|solutionrelative:gymmanagementdal\\entities\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvc sessions\\session 3\\gymmanagmentsystem\\gymmanagementbll\\services\\classes\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\classes\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvc sessions\\session 3\\gymmanagmentsystem\\gymmanagementbll\\services\\interfaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\interfaces\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvc sessions\\session 3\\gymmanagmentsystem\\gymmanagementbll\\services\\classes\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\classes\\planservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvc sessions\\session 3\\gymmanagmentsystem\\gymmanagementbll\\viewmodels\\trainerviewmodel\\createtrainerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\viewmodels\\trainerviewmodel\\createtrainerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvc sessions\\session 3\\gymmanagmentsystem\\gymmanagementbll\\viewmodels\\memberviewmodel\\creatememberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\viewmodels\\memberviewmodel\\creatememberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvc sessions\\session 3\\gymmanagmentsystem\\gymmanagementbll\\viewmodels\\trainerviewmodel\\trainerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\viewmodels\\trainerviewmodel\\trainerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvc sessions\\session 3\\gymmanagmentsystem\\gymmanagementbll\\services\\interfaces\\itrainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\interfaces\\itrainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvc sessions\\session 3\\gymmanagmentsystem\\gymmanagementbll\\viewmodels\\trainerviewmodel\\trainertoupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\viewmodels\\trainerviewmodel\\trainertoupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvc sessions\\session 3\\gymmanagmentsystem\\gymmanagementbll\\viewmodels\\planviewmodel\\updateplanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\viewmodels\\planviewmodel\\updateplanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\mvc sessions\\session 3\\gymmanagmentsystem\\gymmanagementbll\\services\\interfaces\\iplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57C96124-9E59-447C-BB86-560481BD6041}|GymManagementBLL\\GymManagementBLL.csproj|solutionrelative:gymmanagementbll\\services\\interfaces\\iplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +62,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MemberService.cs",
-              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\Services\\Classes\\MemberService.cs",
-              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\Classes\\MemberService.cs",
-              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\Services\\Classes\\MemberService.cs",
-              "RelativeToolTip": "GymManagementBLL\\Services\\Classes\\MemberService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAkwIcAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Session.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementDAL\\Entities\\Session.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Entities\\Session.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementDAL\\Entities\\Session.cs",
+              "RelativeToolTip": "GymManagementDAL\\Entities\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T13:03:23.699Z",
+              "WhenOpened": "2025-10-19T15:51:58.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementDAL\\Entities\\Trainer.cs",
+              "RelativeDocumentMoniker": "GymManagementDAL\\Entities\\Trainer.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementDAL\\Entities\\Trainer.cs",
+              "RelativeToolTip": "GymManagementDAL\\Entities\\Trainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T15:51:42.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateMemberViewModel.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\ViewModels\\MemberViewModel\\CreateMemberViewModel.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\ViewModels\\MemberViewModel\\CreateMemberViewModel.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\ViewModels\\MemberViewModel\\CreateMemberViewModel.cs",
+              "RelativeToolTip": "GymManagementBLL\\ViewModels\\MemberViewModel\\CreateMemberViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T15:00:49.583Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IMemberService.cs",
-              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\Services\\Interfaces\\IMemberService.cs",
-              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\Interfaces\\IMemberService.cs",
-              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\Services\\Interfaces\\IMemberService.cs",
-              "RelativeToolTip": "GymManagementBLL\\Services\\Interfaces\\IMemberService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Title": "MemberViewModel.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\ViewModels\\MemberViewModel\\MemberViewModel.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\ViewModels\\MemberViewModel\\MemberViewModel.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\ViewModels\\MemberViewModel\\MemberViewModel.cs",
+              "RelativeToolTip": "GymManagementBLL\\ViewModels\\MemberViewModel\\MemberViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T13:03:05.036Z",
+              "WhenOpened": "2025-10-19T14:59:51.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrainerService.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\Services\\Classes\\TrainerService.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\Classes\\TrainerService.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\Services\\Classes\\TrainerService.cs",
+              "RelativeToolTip": "GymManagementBLL\\Services\\Classes\\TrainerService.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAA5wIMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:52:57.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTrainerViewModel.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\ViewModels\\TrainerViewModel\\CreateTrainerViewModel.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\ViewModels\\TrainerViewModel\\CreateTrainerViewModel.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\ViewModels\\TrainerViewModel\\CreateTrainerViewModel.cs",
+              "RelativeToolTip": "GymManagementBLL\\ViewModels\\TrainerViewModel\\CreateTrainerViewModel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwDcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:44:19.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrainerViewModel.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\ViewModels\\TrainerViewModel\\TrainerViewModel.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\ViewModels\\TrainerViewModel\\TrainerViewModel.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\ViewModels\\TrainerViewModel\\TrainerViewModel.cs",
+              "RelativeToolTip": "GymManagementBLL\\ViewModels\\TrainerViewModel\\TrainerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:41:18.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\Services\\Classes\\MemberService.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\Classes\\MemberService.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\Services\\Classes\\MemberService.cs",
+              "RelativeToolTip": "GymManagementBLL\\Services\\Classes\\MemberService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswO8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:16:27.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlanService.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\Services\\Classes\\PlanService.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\Classes\\PlanService.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\Services\\Classes\\PlanService.cs",
+              "RelativeToolTip": "GymManagementBLL\\Services\\Classes\\PlanService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAwGoAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:16:43.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITrainerService.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\Services\\Interfaces\\ITrainerService.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\Interfaces\\ITrainerService.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\Services\\Interfaces\\ITrainerService.cs",
+              "RelativeToolTip": "GymManagementBLL\\Services\\Interfaces\\ITrainerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:50:16.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrainerToUpdateViewModel.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\ViewModels\\TrainerViewModel\\TrainerToUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\ViewModels\\TrainerViewModel\\TrainerToUpdateViewModel.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\ViewModels\\TrainerViewModel\\TrainerToUpdateViewModel.cs",
+              "RelativeToolTip": "GymManagementBLL\\ViewModels\\TrainerViewModel\\TrainerToUpdateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:47:23.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdatePlanViewModel.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\ViewModels\\PlanViewModel\\UpdatePlanViewModel.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\ViewModels\\PlanViewModel\\UpdatePlanViewModel.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\ViewModels\\PlanViewModel\\UpdatePlanViewModel.cs",
+              "RelativeToolTip": "GymManagementBLL\\ViewModels\\PlanViewModel\\UpdatePlanViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:27:43.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPlanService.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\Services\\Interfaces\\IPlanService.cs",
+              "RelativeDocumentMoniker": "GymManagementBLL\\Services\\Interfaces\\IPlanService.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\MVC Sessions\\session 3\\GymManagmentSystem\\GymManagementBLL\\Services\\Interfaces\\IPlanService.cs",
+              "RelativeToolTip": "GymManagementBLL\\Services\\Interfaces\\IPlanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T14:27:39.894Z",
               "EditorCaption": ""
             },
             {
