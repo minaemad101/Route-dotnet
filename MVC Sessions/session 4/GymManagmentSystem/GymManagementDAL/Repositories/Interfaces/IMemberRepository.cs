@@ -9,6 +9,6 @@ namespace GymManagementDAL.Repositories.Interfaces
 {
     public interface IMemberRepository : IGenericRepository<Member>
     {
-        int Delete(int id);
+        void Delete(int id);
     }
 }

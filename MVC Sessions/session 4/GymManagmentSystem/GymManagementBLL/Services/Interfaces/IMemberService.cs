@@ -10,6 +10,11 @@ namespace GymManagementBLL.Services.Interfaces
     internal interface IMemberService
     {
         IEnumerable<MemberViewModel> GetAllMembers();
-
+        bool CreateMember(CreateMemberViewModel createMember);
+        MemberViewModel? GetMemberDetails(int memberId);
+        HealthRecordViewModel? GetMemberHealthRecordDetails(int memberId);
+        MemberToUpdateViewModel? GetMemberToUpdate(int memberId);
+        bool UpdateMemberDatails(int  memberId, MemberToUpdateViewModel memberToUpdate);
+        bool RemoveMember(int memberId);
     }
 }

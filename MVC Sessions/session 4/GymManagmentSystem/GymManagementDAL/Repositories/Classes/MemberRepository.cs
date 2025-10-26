@@ -19,17 +19,17 @@ namespace GymManagementDAL.Repositories.Classes
 
         }
 
-        int IMemberRepository.Delete(int id)
+        void IMemberRepository.Delete(int id)
         {
             Member member = GetById(id);
             if (member == null)
             {
-                return 0;
+                //return 0;
             }
             else
             {
                 _dbContext.Members.Remove(member);
-                return _dbContext.SaveChanges();
+                //return _dbContext.SaveChanges();
             }
         }
     }

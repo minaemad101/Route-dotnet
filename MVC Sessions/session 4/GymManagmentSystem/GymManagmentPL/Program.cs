@@ -1,4 +1,8 @@
+using GymManagementBLL;
+using GymManagementBLL.Services.Classes;
+using GymManagementBLL.Services.Interfaces;
 using GymManagementDAL.Data.Contexts;
+using GymManagementDAL.DataSeed;
 using GymManagementDAL.Entities;
 using GymManagementDAL.Repositories.Classes;
 using GymManagementDAL.Repositories.Interfaces;
@@ -20,9 +24,25 @@ namespace GymManagmentPL
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
             //builder.Services.AddScoped<GenericRepository, GenericRepository<Member>>();
-            builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            //builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            //builder.Services.AddScoped<IPlanRepository, PlanRepository>();
+            builder.Services.AddScoped<IUniteOfWork, UniteOfWork>();
+            builder.Services.AddScoped<ISessionRepository, SessionRepository>();
+            builder.Services.AddAutoMapper(x => x.AddProfile(new MappingProfile()));
+            builder.Services.AddScoped<IAnalyticsService,AnalyticService>();
 
             var app = builder.Build();
+
+            #region seeding the data and migrate the database
+            using var Scoped = app.Services.CreateScope();
+            var dbContext = Scoped.ServiceProvider.GetRequiredService<GymDbContext>();
+            var PendingMigrations = dbContext.Database.GetPendingMigrations();
+            if (PendingMigrations?.Any()??false)
+                dbContext.Database.Migrate();
+
+            GymDbcontextDataSeeding.SeedData(dbContext);
+
+            #endregion
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
@@ -41,6 +61,10 @@ namespace GymManagmentPL
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}")
+                .WithStaticAssets();
+            app.MapControllerRoute(
+                name: "Trainers",
+                pattern: "coach/{action=Index}",defaults: new {Controller="Trainer",action="Index"})
                 .WithStaticAssets();
 
             app.Run();
