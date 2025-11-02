@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55E25722-E5B1-4C73-A00D-D954D12E3ACD}|E Commerce.Persistence\\E Commerce.Persistence.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.persistence\\data\\migrations\\20251102130736_productmoduletables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E25722-E5B1-4C73-A00D-D954D12E3ACD}|E Commerce.Persistence\\E Commerce.Persistence.csproj|solutionrelative:e commerce.persistence\\data\\migrations\\20251102130736_productmoduletables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC287AD-8C6A-4683-A147-5FA057AEA292}|E Commerce.Web\\E Commerce.Web.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CFC287AD-8C6A-4683-A147-5FA057AEA292}|E Commerce.Web\\E Commerce.Web.csproj|solutionrelative:e commerce.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC287AD-8C6A-4683-A147-5FA057AEA292}|E Commerce.Web\\E Commerce.Web.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC287AD-8C6A-4683-A147-5FA057AEA292}|E Commerce.Web\\E Commerce.Web.csproj|solutionrelative:e commerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E25722-E5B1-4C73-A00D-D954D12E3ACD}|E Commerce.Persistence\\E Commerce.Persistence.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.persistence\\dbcontexts\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E25722-E5B1-4C73-A00D-D954D12E3ACD}|E Commerce.Persistence\\E Commerce.Persistence.csproj|solutionrelative:e commerce.persistence\\dbcontexts\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E25722-E5B1-4C73-A00D-D954D12E3ACD}|E Commerce.Persistence\\E Commerce.Persistence.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.persistence\\data\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E25722-E5B1-4C73-A00D-D954D12E3ACD}|E Commerce.Persistence\\E Commerce.Persistence.csproj|solutionrelative:e commerce.persistence\\data\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A931EACC-FA23-460A-AA05-20D8B13F532D}|E Commerce.Domain\\E Commerce.Domain.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.domain\\entities\\productmodule\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A931EACC-FA23-460A-AA05-20D8B13F532D}|E Commerce.Domain\\E Commerce.Domain.csproj|solutionrelative:e commerce.domain\\entities\\productmodule\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A931EACC-FA23-460A-AA05-20D8B13F532D}|E Commerce.Domain\\E Commerce.Domain.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.domain\\entities\\productmodule\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A931EACC-FA23-460A-AA05-20D8B13F532D}|E Commerce.Domain\\E Commerce.Domain.csproj|solutionrelative:e commerce.domain\\entities\\productmodule\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A931EACC-FA23-460A-AA05-20D8B13F532D}|E Commerce.Domain\\E Commerce.Domain.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.domain\\entities\\productmodule\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A931EACC-FA23-460A-AA05-20D8B13F532D}|E Commerce.Domain\\E Commerce.Domain.csproj|solutionrelative:e commerce.domain\\entities\\productmodule\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A931EACC-FA23-460A-AA05-20D8B13F532D}|E Commerce.Domain\\E Commerce.Domain.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A931EACC-FA23-460A-AA05-20D8B13F532D}|E Commerce.Domain\\E Commerce.Domain.csproj|solutionrelative:e commerce.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A0814B-AEAC-4B98-A272-92C43AB85FCB}|E Commerce.Shared\\E Commerce.Shared.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A0814B-AEAC-4B98-A272-92C43AB85FCB}|E Commerce.Shared\\E Commerce.Shared.csproj|solutionrelative:e commerce.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174ED5BD-A95E-46F0-8CB5-43B90EC3B065}|E Commerce.Presentation\\E Commerce.Presentation.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.presentation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174ED5BD-A95E-46F0-8CB5-43B90EC3B065}|E Commerce.Presentation\\E Commerce.Presentation.csproj|solutionrelative:e commerce.presentation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55E25722-E5B1-4C73-A00D-D954D12E3ACD}|E Commerce.Persistence\\E Commerce.Persistence.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55E25722-E5B1-4C73-A00D-D954D12E3ACD}|E Commerce.Persistence\\E Commerce.Persistence.csproj|solutionrelative:e commerce.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{223A01E3-3EDD-4045-91E1-10E48654E9F5}|E Commerce.Service Abstraction\\E Commerce.Service Abstraction.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.service abstraction\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{223A01E3-3EDD-4045-91E1-10E48654E9F5}|E Commerce.Service Abstraction\\E Commerce.Service Abstraction.csproj|solutionrelative:e commerce.service abstraction\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A0443FB-7403-47A9-9F0D-F5AFE901F430}|E Commerce.Service\\E Commerce.Service.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0443FB-7403-47A9-9F0D-F5AFE901F430}|E Commerce.Service\\E Commerce.Service.csproj|solutionrelative:e commerce.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A931EACC-FA23-460A-AA05-20D8B13F532D}|E Commerce.Domain\\E Commerce.Domain.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A931EACC-FA23-460A-AA05-20D8B13F532D}|E Commerce.Domain\\E Commerce.Domain.csproj|solutionrelative:e commerce.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC287AD-8C6A-4683-A147-5FA057AEA292}|E Commerce.Web\\E Commerce.Web.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.web\\e commerce.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CFC287AD-8C6A-4683-A147-5FA057AEA292}|E Commerce.Web\\E Commerce.Web.csproj|solutionrelative:e commerce.web\\e commerce.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC287AD-8C6A-4683-A147-5FA057AEA292}|E Commerce.Web\\E Commerce.Web.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.web\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC287AD-8C6A-4683-A147-5FA057AEA292}|E Commerce.Web\\E Commerce.Web.csproj|solutionrelative:e commerce.web\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC287AD-8C6A-4683-A147-5FA057AEA292}|E Commerce.Web\\E Commerce.Web.csproj|e:\\courses\\route\\github_repo\\git repo\\route-dotnet\\api\\e commerce.web solution\\e commerce.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC287AD-8C6A-4683-A147-5FA057AEA292}|E Commerce.Web\\E Commerce.Web.csproj|solutionrelative:e commerce.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251102130736_ProductModuleTables.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Persistence\\Data\\Migrations\\20251102130736_ProductModuleTables.cs",
+              "RelativeDocumentMoniker": "E Commerce.Persistence\\Data\\Migrations\\20251102130736_ProductModuleTables.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Persistence\\Data\\Migrations\\20251102130736_ProductModuleTables.cs",
+              "RelativeToolTip": "E Commerce.Persistence\\Data\\Migrations\\20251102130736_ProductModuleTables.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswEwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:07:36.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "E Commerce.Web\\appsettings.Development.json",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Web\\appsettings.Development.json",
+              "RelativeToolTip": "E Commerce.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T13:03:17.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Web\\Program.cs",
+              "RelativeDocumentMoniker": "E Commerce.Web\\Program.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Web\\Program.cs",
+              "RelativeToolTip": "E Commerce.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:00:35.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Persistence\\DbContexts\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "E Commerce.Persistence\\DbContexts\\StoreDbContext.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Persistence\\DbContexts\\StoreDbContext.cs",
+              "RelativeToolTip": "E Commerce.Persistence\\DbContexts\\StoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:52:20.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Persistence\\Data\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "E Commerce.Persistence\\Data\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Persistence\\Data\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "E Commerce.Persistence\\Data\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:45:03.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Domain\\Entities\\ProductModule\\ProductType.cs",
+              "RelativeDocumentMoniker": "E Commerce.Domain\\Entities\\ProductModule\\ProductType.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Domain\\Entities\\ProductModule\\ProductType.cs",
+              "RelativeToolTip": "E Commerce.Domain\\Entities\\ProductModule\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:41:02.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Domain\\Entities\\ProductModule\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "E Commerce.Domain\\Entities\\ProductModule\\ProductBrand.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Domain\\Entities\\ProductModule\\ProductBrand.cs",
+              "RelativeToolTip": "E Commerce.Domain\\Entities\\ProductModule\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:40:17.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "E Commerce.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "E Commerce.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:37:20.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Domain\\Entities\\ProductModule\\Product.cs",
+              "RelativeDocumentMoniker": "E Commerce.Domain\\Entities\\ProductModule\\Product.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Domain\\Entities\\ProductModule\\Product.cs",
+              "RelativeToolTip": "E Commerce.Domain\\Entities\\ProductModule\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:35:09.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "E Commerce.Shared\\Class1.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Shared\\Class1.cs",
+              "RelativeToolTip": "E Commerce.Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:21:23.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Presentation\\Class1.cs",
+              "RelativeDocumentMoniker": "E Commerce.Presentation\\Class1.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Presentation\\Class1.cs",
+              "RelativeToolTip": "E Commerce.Presentation\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:21:04.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "E Commerce.Persistence\\Class1.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Persistence\\Class1.cs",
+              "RelativeToolTip": "E Commerce.Persistence\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:20:33.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Service Abstraction\\Class1.cs",
+              "RelativeDocumentMoniker": "E Commerce.Service Abstraction\\Class1.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Service Abstraction\\Class1.cs",
+              "RelativeToolTip": "E Commerce.Service Abstraction\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:20:03.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "E Commerce.Service\\Class1.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Service\\Class1.cs",
+              "RelativeToolTip": "E Commerce.Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:19:26.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "E Commerce.Domain\\Class1.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Domain\\Class1.cs",
+              "RelativeToolTip": "E Commerce.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T12:19:10.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "E Commerce.Web.csproj",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Web\\E Commerce.Web.csproj",
+              "RelativeDocumentMoniker": "E Commerce.Web\\E Commerce.Web.csproj",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Web\\E Commerce.Web.csproj",
+              "RelativeToolTip": "E Commerce.Web\\E Commerce.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T14:25:35.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Web\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "E Commerce.Web\\Models\\Product.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Web\\Models\\Product.cs",
+              "RelativeToolTip": "E Commerce.Web\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:05:54.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "E Commerce.Web\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Courses\\route\\github_repo\\git repo\\Route-dotnet\\API\\E Commerce.Web Solution\\E Commerce.Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "E Commerce.Web\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:05:22.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
